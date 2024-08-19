@@ -1,1 +1,2 @@
-this is the fixe code of txt
+this is the fixe code of txt 
+the bug is fixed
